@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.450.0",
+    "mailcomposer": "^4.0.2"
+  }
+}
