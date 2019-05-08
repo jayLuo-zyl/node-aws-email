@@ -10,7 +10,7 @@ return Promise.resolve().then(() => {
   const mail = mailcomposer({
     from: 'jihui.luo@dmv.ca.gov',
     replyTo: 'jihui.luo@dmv.ca.gov',
-    to: ['jihui.luo@dmv.ca.gov', 'son.nguyen@dmv.ca.gov'],
+    to: ['jihui.luo@dmv.ca.gov', 'son.nguyen@dmv.ca.gov', 'zhiyuanluo9@gmail.com'],
     subject: 'Sample SES message with attachment',
     text: 'Hi Sonny/Jay, this is a test message from SES with an attachment.',
     attachments: [
